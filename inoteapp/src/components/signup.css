@@ -1,0 +1,60 @@
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60vh;
+}
+.signupbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid black; */
+    padding: 40px;
+    flex-direction: column;
+}
+.signup-title{
+    color: rgb(39, 43, 48);
+    margin: 40px;
+    font-size: 60px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.sign-inputconatiner{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    display: flex;
+    flex-direction: column;
+    
+}
+.signup-inputcontainer{
+    display: flex;
+    flex-direction: column;
+}
+
+.inp-component{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 400px;
+    max-width: 80vw;
+}
+.signup-input{
+    border: none;
+    width: 100%;
+    border-bottom: 1px solid black;
+    height: 40px;
+    color: rgb(0, 0, 0);
+    margin-top: 10px;
+}
+
+.signup-desc{
+    margin: 20px 0px 30px 0px;
+    font-size: 20px;
+}
+
+
+.signup-btn{
+    width: 30%;
+    border: none;
+    border: 1px solid rgb(164, 156, 156);
+    text-align: center;
+    justify-content: center;
+}

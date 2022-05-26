@@ -1,0 +1,11 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    height: 8vh;
+    background-color: rgb(223, 247, 249);
+
+}
+.option{
+    display: flex;
+    align-items: center;
+}

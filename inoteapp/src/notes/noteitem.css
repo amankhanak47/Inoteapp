@@ -1,0 +1,19 @@
+.noteitem{
+    margin-top: 15px;
+}
+.header-personal{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    flex-direction: row;
+    /* text-overflow: clip; */
+
+}
+.left-header{
+    display: flex;
+}
+.overflow-p{
+    /* overflow-x: scroll; */
+    width: 90%;
+
+}
